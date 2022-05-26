@@ -1,4 +1,4 @@
-#I ntegrantes
+# Integrantes
 
 Lucas Cardoso Lazari 8927439
 Diogo José Costa Alves 13709881
@@ -14,7 +14,7 @@ este dataset para treinar modelos para classificar os pacientes em alto risco (i
 das proteínas identificadas. São no total 132 amostras para treinamento/validação e 64 amostras para teste. Ambos os datasets (treino e teste) estão desbalanceados. 
 O objetivo é melhorar o que foi feito no estudo publicado, visando aumentar a performance de classificação no dataset de teste.
 
-#Plano de trabalho
+# Plano de trabalho
 
 1. Realização de uma análise exploratória no dataset com a finalidade de compreender as distribuições das variáveis, seus ranges de valores ou tipos (em caso de categórica), a correlação variável-variável e variável-feature, ou seja, ter uma melhor ideia dos dados que se está trabalhando. Neste etapa se usará amplamente bibliotecas Python de manipulação e análise de dados como Pandas, Numpy, Scipy, além de bibliotecas de visualização como MatplotLib e Seaborn.
 
